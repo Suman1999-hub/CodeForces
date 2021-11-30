@@ -1,12 +1,12 @@
 // A. A.M. Deviation
 /*d(a1,a2,a3)=|a1+a3−2⋅a2|.
 Example
-	inputCopy
+	Input
 	3
 	3 4 5
 	2 2 6
 	1 6 5
-	outputCopy
+	Output
 	0
 	1
 	0
